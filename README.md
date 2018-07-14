@@ -1,6 +1,6 @@
 # LocalChocolateyPackage
 
-[![Build status](https://ci.appveyor.com/api/projects/status/1q01o9rv2u1cu967?svg=true)](https://ci.appveyor.com/project/MSAdministrator/localchocolateypackage)
+[![Build status](https://ci.appveyor.com/api/projects/status/7yb9er834qod0xvw?svg=true)](https://ci.appveyor.com/project/MSAdministrator/localchocolateypackage)
 
 ## Creates and installs local Chocolatey packages
 
